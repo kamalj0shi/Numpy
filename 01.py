@@ -9,3 +9,4 @@ python_list = [1,2,3,4,5,6]  # python_list → a list object (<class 'list'>)
 print(python_list)
 numpy_arr = np.array([1,2,3,4,5,6]) # numpy_arr → a NumPy ndarray (<class 'numpy.ndarray'>)
 print(numpy_arr)
+
